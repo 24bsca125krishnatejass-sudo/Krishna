@@ -1,2 +1,1 @@
-# Krishna
-Hi
+Hi, I'm Krishnatejas Welcome to my portfolio repository! About Me * I'm learning Full Stack Development * Interested in Web Development & Python * Goal: To become a skilled software engineer Contact * Email: 24bsca125krishnatejass@skacas.ac.in
